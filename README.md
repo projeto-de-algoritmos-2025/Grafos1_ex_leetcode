@@ -11,7 +11,7 @@ Este trabalho foi desenvolvido para a disciplina **Projeto de Algoritmos**, mini
 
 | Matrícula   | Nome                          |
 |-------------|-------------------------------|
-| 222015112  | Gabriel reis Scheidt Paulino    |
+| 222015112  | Gabriel Reis Scheidt Paulino    |
 
 
 ## Sobre o LeetCode
@@ -32,16 +32,14 @@ A proposta desta lista é promover o domínio de conceitos essenciais relacionad
 - Detecção de trios completamente conectados;
 - Cálculo do grau de vértices em subgrafos.
 
-As soluções apresentadas têm como finalidade fortalecer a base teórica e desenvolver habilidades na resolução de problemas computacionais utilizando grafos como estrutura principal.
-
 ## Exercícios Resolvidos
 
-| número | Questão | Dificuldade | Autor | Descrição |
+| número | Questão | Dificuldade | Autor |
 | :--: | -- | :--: | -- | -- |
-| 1 | [questão](link) | Média | Gabriel Scheidt | Descrição|
-| 2 | [questão](link) | Média | Gabriel Scheidt |Descrição |
-| 3 | [questão](link) | Difícil | Gabriel Scheidt |Descrição |
-| 4 | [questão](link) | Difícil | Gabriel Scheidt | Descrição |
+| 1 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/?envType=problem-list-v2&envId=graph) | Média | Gabriel Scheidt |
+| 2 | [questão](link) | Média | Gabriel Scheidt |
+| 3 | [questão](link) | Difícil | Gabriel Scheidt |
+| 4 | [questão](link) | Difícil | Gabriel Scheidt |
 
 ## Conclusão
 
