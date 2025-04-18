@@ -26,12 +26,12 @@ A proposta desta lista é promover o domínio de conceitos essenciais incluindo:
 
 ## Exercícios Resolvidos
 
-| número | Questão | Dificuldade | Autor |
-| :--: | -- | :--: | -- | -- |
-| 1 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/?envType=problem-list-v2&envId=graph) | Média | Gabriel Scheidt |
-| 2 | [684. Redudant Connection]() | Média | Gabriel Scheidt |
-| 3 | [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/?envType=problem-list-v2&envId=graph) | Difícil | Gabriel Scheidt |
-| 4 | [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/?envType=problem-list-v2&envId=graph) | Difícil | Gabriel Scheidt |
+| Número | Questão                                                                                                   | Dificuldade | Autor            |
+|--------|-----------------------------------------------------------------------------------------------------------|-------------|------------------|
+| 1      | [133. Clone Graph](https://leetcode.com/problems/clone-graph/description/?envType=problem-list-v2&envId=graph) | Média       | Gabriel Scheidt  |
+| 2      | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)                           | Média       | Gabriel Scheidt  |
+| 3      | [2642. Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/?envType=problem-list-v2&envId=graph) | Difícil     | Gabriel Scheidt  |
+| 4      | [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/?envType=problem-list-v2&envId=graph) | Difícil     | Gabriel Scheidt  |
 
 ## Conclusão
 
